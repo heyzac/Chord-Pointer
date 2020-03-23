@@ -1,0 +1,44 @@
+*{
+    position:relative;
+}
+
+.Keys{
+    width:150%;
+}
+
+.WK{
+    height: 20%;
+    width: auto;
+    z-index: 1;
+    vertical-align: top;
+    
+    margin-right:-7px;
+}
+
+.BK{
+    height: 12%;
+    width: auto;
+    z-index: 2;
+    vertical-align: top;
+    
+    margin-left:-18px;
+    margin-right:-20px;
+}
+
+.chordType{
+    width:110px;
+}
+
+.ChordTypeOptions{
+    margin-top:10px;
+    margin-bottom:10px;
+}
+
+
+.asdasdsa{
+    
+    margin-right:-8px;
+
+    margin-left:-28px;
+    margin-right:-37px;
+}
